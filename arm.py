@@ -1,6 +1,6 @@
 # ARM by Ken Hall 8/4/2017
 # Acronym reclamation module (ARM) creates a dictionary of acronyms for a txt file
-# Requires one input argument: path to txt file contaning text to analyze
+# Requires one input argument: path to txt file contaning paper to repair
 
 import sys
 import re
